@@ -1,4 +1,5 @@
 ---
+# ping para equipos linux
 - name: Check connectivity to remote servers
   gather_facts: True
   tasks:
