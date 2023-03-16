@@ -1,0 +1,5 @@
+---
+- name: win ping
+  tasks:
+    - name: test connection to windows hosts
+      ansible-windows.win-ping:
